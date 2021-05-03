@@ -13,8 +13,8 @@ public class GittiGidiyor {
 
     static final Logger logger = LogManager.getLogger(GittiGidiyor.class);
     String basePage = "https://www.gittigidiyor.com/";
-    String mail = "trkmnoguz@hotmail.com";
-    String password = "15975300oguzhan";
+    String mail = "Mail adresi giriniz";
+    String password = "Şifre giriniz";
     String searchword ="bilgisayar";
 
     static WebDriver driver;
